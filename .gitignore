@@ -1,2 +1,5 @@
-/modules_files
-/packges-lock.json
+node_modules
+.gitignore~
+..gitignore.un~
+/..gitignore.un~
+
